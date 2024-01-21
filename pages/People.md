@@ -44,7 +44,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/)
 
 ### Shah Wasif Sazzad
 ---
-<img style="float: right;" src="../../assets/img/people/wasif.jpg">
+<img style="float: right;" src="../../assets/img/people/wasif.jpg" width="40%" height="40%">
 
 <div style="text-align: justify">Wasif received his B.Sc in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). He has a M.S. in Mechanical Engineering and currently pursuing a Ph.D. degree specializing in developing efficient algorithms for particle cluster triangulation and visualization based on physical interactions. He has excellent experience working with C/C++ and Python with a decent knowledge of data structures and algorithms. The goal of his research right now is to create elasticity inspired compact unfolding of 3D shapes. This type of unfolding will open doors for efficient deployable structures design. </div>
 <br />
