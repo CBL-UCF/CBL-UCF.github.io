@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://CBL-UCF.github.io"
+url: "https://cbl-ucf.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: CBL                                # site's title
