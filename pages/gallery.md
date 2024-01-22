@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Gallery
+title: Training
 subtitle: 
-permalink: /gallery/
+permalink: /training/
 gallery_path: "assets/img/pexels"
 tags: [Page]
 ---
