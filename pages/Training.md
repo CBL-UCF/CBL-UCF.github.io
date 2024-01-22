@@ -8,4 +8,6 @@ tags: [Page]
 ---
 
 
-{% include gallery.html gallery_path=page.gallery_path %}
+---
+Training Information
+---
