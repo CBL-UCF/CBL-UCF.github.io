@@ -5,29 +5,29 @@
     filaments". Computer Methods in Applied Mechanics and Engineering,
     Vol. 417, pp. 116441, 2023.
 
-2.  A. Von Zuben$^{\blacksquare}$, **L.E. Perotti**, F.A.C Viana:
+2.  A. Von Zuben, **L.E. Perotti**, F.A.C Viana:
     "Anatomically-guided deep learning for left ventricle geometry
     generation with uncertainty quantification based on short-axis MR
     images". Engineering Applications of Artificial Intelligence,
     Vol. 121, pp. 106012, 2023.
 
-3.  D. Ogiermann$^{\square}$, **L.E. Perotti**, D. Balzani: "A Simple
+3.  D. Ogiermann, **L.E. Perotti**, D. Balzani: "A Simple
     and Efficient Adaptive Time Stepping Technique for Low-Order
     Operator Splitting Schemes Applied to Cardiac Electrophysiology".
     International Journal for Numerical Methods in Biomedical
     Engineering, Vol. 39, Issue 2, pp. e3670, 2023.
 
-4.  F. Wei, K. Flowerdew$^{\square}$, M. Kinzel, **L.E. Perotti**, J.
-    Asiatico$^{\blacksquare}$, M. Omer, C. Hovell, V. Reumers, M.J.
+4.  F. Wei, K. Flowerdew, M. Kinzel, **L.E. Perotti**, J.
+    Asiatico, M. Omer, C. Hovell, V. Reumers, M.J.
     Coathup: "Changes in interstitial fluid flow, mass transport and the
     bone cell response in microgravity and normogravity". Bone Research,
     Vol. 10, Issue 1, pp. 1-19, 2022.
 
-5.  S. Dharmavaram, X. Wan$^{\square}$, **L.E. Perotti**: "A Lagrangian
+5.  S. Dharmavaram, X. Wan, **L.E. Perotti**: "A Lagrangian
     Thin-Shell Finite Element Method for Interacting Particles on Fluid
     Membranes". Membranes, Vol. 12, Issue 10, pp. 960, 2022.
 
-6.  T. Rahman$^{\blacksquare}$, K. Moulin, **L.E. Perotti**: "Cardiac
+6.  T. Rahman, K. Moulin, **L.E. Perotti**: "Cardiac
     Diffusion Tensor Biomarkers of Chronic Infarction Based on In Vivo
     Data". Applied Sciences, Vol. 12, Issue 7, pp. 3512, 2022.
 
@@ -35,17 +35,17 @@
     Generation to Train a Cardiac Motion Tag Tracking Neural Network".
     Medical Image Analysis, Vol. 74, pp. 102223, 2021.
 
-8.  K. Moulin, P. Croisille, M. Viallon, I.A. Verzhbinsky$^{\square}$,
+8.  K. Moulin, P. Croisille, M. Viallon, I.A. Verzhbinsky,
     **L.E. Perotti**, D.B. Ennis: "Myofiber strain in healthy human
     using DENSE and cDTI". Magnetic Resonance in Medicine. Vol. 86,
     Issue 1, pp. 277-292, 2021.
 
-9.  **L.E. Perotti**, I.A. Verzhbinsky$^{\square}$, K. Moulin, T.E.
-    Cork$^{\square}$, M. Loecher, D. Balzani, D.B. Ennis: "Estimating
+9.  **L.E. Perotti**, I.A. Verzhbinsky, K. Moulin, T.E.
+    Cork, M. Loecher, D. Balzani, D.B. Ennis: "Estimating
     cardiomyofiber strain in vivo by solving a computational model".
     Medical Image Analysis, Vol 68, pp 101932, 2021.
 
-10. K. Moulin, I.A. Verzhbinsky$^{\square}$, N.G. Maforo$^{\square}$,
+10. K. Moulin, I.A. Verzhbinsky, N.G. Maforo,
     **L.E. Perotti**, D.B. Ennis: "Probing cardiomyocyte mobility with
     multi-phase cardiac diffusion tensor MRI". PloS one, Vol. 15,
     Issue 11, pp. e0241996, 2020.
@@ -54,36 +54,36 @@
     interacting particles on a deformable medium". Computer Methods in
     Applied Mechanics and Engineering, Vol. 364, pp. 112949, 2020.
 
-12. L. Xinzhou$^{\square}$, **L.E. Perotti**, J.A. Martinez,
+12. L. Xinzhou, **L.E. Perotti**, J.A. Martinez,
     S.M. Duarte-Vogel, D.B. Ennis, H.H. Wu: "Real-time 3T MRI-guided
     cardiovascular catheterization in a porcine model using a
     glass-fiber epoxy-based guidewire". PLOS ONE, Vol. 15, Issue 2,
     pp. e0229711, 2020.
 
-13. I.A. Verzhbinsky$^{\square}$, **L.E. Perotti**, K. Moulin,
-    T.E. Cork$^{\square}$, M. Loecher, D.B. Ennis: "Estimating Aggregate
+13. I.A. Verzhbinsky, **L.E. Perotti**, K. Moulin,
+    T.E. Cork, M. Loecher, D.B. Ennis: "Estimating Aggregate
     Cardiomyocyte Strain Using *In Vivo* Diffusion and Displacement
     Encoded MRI\". IEEE Transactions on Medical Imaging, Vol. 39,
     Issue 3, pp. 656-667, 2019.
 
-14. **L.E. Perotti**, K. Zhang$^{\square}$, R.F. Bruinsma, J. Rudnick:
+14. **L.E. Perotti**, K. Zhang, R.F. Bruinsma, J. Rudnick:
     "Kirigami and the Caspar-Klug construction for viral shells with
     negative Gauss curvature\". Physical Review E, Vol. 99, Issue 2,
     pp. 022413, 2019.
 
-15. **L.E. Perotti**, A.V. Ponnaluri$^{\square}$, S. Krishnamoorthi,
+15. **L.E. Perotti**, A.V. Ponnaluri, S. Krishnamoorthi,
     D. Balzani, D.B. Ennis, W.S. Klug: "Method for the unique
     identification of hyperelastic material properties using full field
     measures. Application to the passive myocardium material response".
     International Journal for Numerical Methods in Biomedical
     Engineering, Vol. 33, pp. e2866, 2017.
 
-16. A.V. Ponnaluri$^{\square}$, **L.E. Perotti**, D.B. Ennis, W.S. Klug:
+16. A.V. Ponnaluri, **L.E. Perotti**, D.B. Ennis, W.S. Klug:
     "A Viscoactive Constitutive Modeling Framework with Variational
     Updates for the Myocardium". Computer Methods in Applied Mechanics
     and Engineering, Vol. 314, pp. 85-101, 2017.
 
-17. A.R. Singh$^{\square}$, **L.E. Perotti**, R.F. Bruinsma, J. Rudnick,
+17. A.R. Singh, **L.E. Perotti**, R.F. Bruinsma, J. Rudnick,
     W.S. Klug: "Ground state instabilities of protein shells are
     eliminated by buckling". Soft Matter, Vol. 13, Issue 44,
     pp. 8300-8308, 2017.
@@ -92,7 +92,7 @@
     R. Bruinsma: "Useful Scars: Physics of the Capsids of Archaeal
     Viruses". Physical Review E, Vol. 94, Issue 1, pp. 012404, 2016.
 
-19. A.V. Ponnaluri$^{\square}$, **L.E. Perotti**, M. Liu$^{\square}$,
+19. A.V. Ponnaluri, **L.E. Perotti**, M. Liu,
     Z. Qu, J.N. Weiss, D.B. Ennis, W.S. Klug, A. Garfinkel:
     "Electrophysiology of Heart Failure using a Rabbit Model: from the
     Failing Myocyte to Ventricular Fibrillation". PLOS Computational
@@ -102,21 +102,21 @@
     Physics of Viral Capsids with Broken Symmetry". Physical Review
     Letters, Vol. 115, Issue 5, pp. 058101, 2015.
 
-21. **L.E. Perotti**, S. Krishnamoorthi$^{\square}$,
-    N.P. Borgstrom$^{\square}$, D.B. Ennis, W.S. Klug: "Regional
+21. **L.E. Perotti**, S. Krishnamoorthi,
+    N.P. Borgstrom, D.B. Ennis, W.S. Klug: "Regional
     segmentation of ventricular models to achieve repolarization
     dispersion in cardiac EP modeling". International Journal for
     Numerical Methods in Biomedical Engineering, Vol. 31, Issue 8,
     pp. e02718, 2015.
 
-22. **L.E. Perotti**, A. Aggarwal$^{\square}$, J. Rudnick, R. Bruinsma,
+22. **L.E. Perotti**, A. Aggarwal, J. Rudnick, R. Bruinsma,
     W.S. Klug: "Elasticity Theory of the Maturation of Viral Capsids".
     Journal of the Mechanics and Physics of Solids, Vol. 77,
     pp. 86-108, 2015.
 
-23. S. Krishnamoorthi$^{\square}$, **L.E. Perotti**,
-    N.P. Borgstrom$^{\square}$, O.A. Ajijola, A. Frid$^{\square}$,
-    A.V. Ponnaluri$^{\square}$, J.N. Weiss, Z. Qu, W.S. Klug,
+23. S. Krishnamoorthi, **L.E. Perotti**,
+    N.P. Borgstrom, O.A. Ajijola, A. Frid,
+    A.V. Ponnaluri, J.N. Weiss, Z. Qu, W.S. Klug,
     D.B. Ennis, A. Garfinkel: "Simulation Methods and Validation
     Criteria for Modeling Cardiac Ventricular Electrophysiology". PLOS
     ONE, Vol. 9, Issue 12, pp. e114494, 2014.
@@ -147,13 +147,13 @@
 
 **Refereed Publications in Conference Proceedings**
 
-1.  A. Von Zuben$^{\blacksquare}$, E. Whitt$^{\blacksquare}$, F.A.C.
+1.  A. Von Zuben, E. Whitt, F.A.C.
     Viana, **L.E. Perotti**: "Long Axis Cardiac MRI Segmentation Using
     Anatomically-Guided UNets and Transfer Learning". International
     Conference on Functional Imaging and Modeling of the Heart,
     Springer, pp. 274-282, Lyon, France, June 2023.
 
-2.  D. Ogiermann$^{\square}$, D. Balzani, **L.E. Perotti**: "An Extended
+2.  D. Ogiermann, D. Balzani, **L.E. Perotti**: "An Extended
     Generalized Hill Model for Cardiac Tissue: Comparison with Different
     Approaches Based on Experimental Data". International Conference on
     Functional Imaging and Modeling of the Heart, Springer, pp. 555-564,
@@ -164,47 +164,47 @@
     Conference on Functional Imaging and Modeling of the Heart,
     Springer, pp. 64-73, Lyon, France, June 2023.
 
-4.  T. Rahman$^{\blacksquare}$, K. Moulin, D.B. Ennis, **L.E. Perotti**:
+4.  T. Rahman, K. Moulin, D.B. Ennis, **L.E. Perotti**:
     "Diffusion Biomarkers in Chronic Myocardial Infarction". Functional
     Imaging and Modeling of the Heart, Springer, pp. 137-147, Stanford,
     California, June 2021.
 
-5.  A. Von Zuben$^{\blacksquare}$, K. Heckman$^{\blacksquare}$, F.A.
+5.  A. Von Zuben, K. Heckman, F.A.
     Viana, **L.E. Perotti**: "A Multi-step Machine Learning Approach for
     Short Axis MR Images Segmentation". Functional Imaging and Modeling
     of the Heart, Springer, pp. 122-133, Stanford, California,
     June 2021.
 
-6.  D. Ogiermann$^{\square}$, D. Balzani, **L.E. Perotti**: "The Effect
+6.  D. Ogiermann, D. Balzani, **L.E. Perotti**: "The Effect
     of Modeling Assumptions on the ECG in Monodomain and Bidomain
     Simulations". Functional Imaging and Modeling of the Heart,
     Springer, pp. 503-514, Stanford, California, June 2021.
 
-7.  M. Loecher, A.J. Hannum$^{\square}$, **L.E. Perotti**, D.B. Ennis:
+7.  M. Loecher, A.J. Hannum, **L.E. Perotti**, D.B. Ennis:
     "Arbitrary Point Tracking with Machine Learning to Measure Cardiac
     Strains in Tagged MRI". Functional Imaging and Modeling of the
     Heart, Springer, pp. 213-222, Stanford, California, June 2021.
 
-8.  A.V.S. Ponnaluri$^{\square}$, I.A. Verzhbinsky$^{\square}$, J.
+8.  A.V.S. Ponnaluri, I.A. Verzhbinsky, J.
     Eldredge, A. Garfinkel, D.B. Ennis, **L.E. Perotti**: "Model of Left
     Ventricular Contraction: Validation Criteria and Boundary
     Conditions\". Functional Imaging and Modeling of the Heart,
     Bordeaux, France, June 2019.
 
-9.  T. Cork$^{\square}$, **L.E. Perotti**, I.A. Verzhbinsky$^{\square}$,
+9.  T. Cork, **L.E. Perotti**, I.A. Verzhbinsky,
     M. Loecher, D.B. Ennis: "High-Resolution *Ex Vivo* Microstructural
     MRI After Restoring Ventricular Geometry via 3D Printing\".
     Functional Imaging and Modeling of the Heart, Bordeaux, France,
     June 2019.
 
-10. I.A. Verzhbinsky$^{\square}$, P. Magrath$^{\square}$,
-    E. Aliotta$^{\square}$, D.B. Ennis, **L.E. Perotti**: "Time Resolved
+10. I.A. Verzhbinsky, P. Magrath,
+    E. Aliotta, D.B. Ennis, **L.E. Perotti**: "Time Resolved
     Displacement-Based Registration of *In Vivo* cDTI Cardiomyocyte
     Orientations". IEEE International Symposium on Biomedical Imaging
     (ISBI), Washington, D.C., April 2018.
 
-11. **L.E. Perotti**, P. Magrath$^{\square}$,
-    I.A. Verzhbinsky$^{\square}$, E. Aliotta$^{\square}$, K. Moulin,
+11. **L.E. Perotti**, P. Magrath,
+    I.A. Verzhbinsky, E. Aliotta, K. Moulin,
     D.B. Ennis: "Microstructurally Anchored Cardiac Kinematics by
     Combining *In Vivo* DENSE MRI and cDTI". Functional Imaging and
     Modelling of the Heart, Toronto, Canada, June 2017 --- [Best Paper
