@@ -143,12 +143,12 @@ feature-img: "assets/img/publication.jpg"
     Computer Methods in Applied Mechanics and Engineering, Vols.
     221-222, pp. 83-103, 2012.
 
-27. V. Saouma, **L. Perotti**, T. Shimpo: "Stress analysis of concrete
+27. V. Saouma, L. Perotti, T. Shimpo: "Stress analysis of concrete
     structures subjected to alkali-aggregate reactions". American
     Concrete Institute, Structural Journal, Vol. 104, No. 5, pp.
     532-541, Sept-Oct 2007.
 
-28. V. Saouma, **L. Perotti**: "Constitutive model for alkali-aggregate
+28. V. Saouma, L. Perotti: "Constitutive model for alkali-aggregate
     reactions". American Concrete Institute, Materials Journal, Vol.
     103, No. 3, pp. 194-202, May-June 2006.
 
@@ -217,7 +217,7 @@ feature-img: "assets/img/publication.jpg"
     Modelling of the Heart, Toronto, Canada, June 2017 --- [Best Paper
     Award]{.ul}.
 
-12. B. Li, **L. Perotti**, M. Adams, J. Mihaly, A.J. Rosakis,
+12. B. Li, L. Perotti, M. Adams, J. Mihaly, A.J. Rosakis,
     M. Stalzer, M. Ortiz: "Large scale Optimal Transportation Meshfree
     (OTM) simulations of hypervelocity impact". Procedia Engineering,
     Vol. 58, pp. 320-327, 2013.
@@ -231,7 +231,7 @@ feature-img: "assets/img/publication.jpg"
     111-126, M. Griebel and M.A. Schweitzer editors, Springer-Verlag
     Berlin Heidelberg 2013.
 
-14. **L. Perotti**, T. El Sayed, R. Deiterding, M. Ortiz: "Response of
+14. L. Perotti, T. El Sayed, R. Deiterding, M. Ortiz: "Response of
     fiber reinforced sandwich structures subjected to explosive
     loading". 9th International Conference on Sandwich Structures (ICSS
     9), Pasadena, California, June 2010.
