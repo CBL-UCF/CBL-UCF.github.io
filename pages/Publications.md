@@ -1,3 +1,10 @@
+---
+layout: page
+title: Publications
+permalink: /Publications/
+feature-img: "assets/img/publication.jpg"
+---
+
 ## **Refereed Journal Papers**
 
 1.  B. Lal Sharma, **L.E. Perotti**, S. Dharmavaram: "Computational
