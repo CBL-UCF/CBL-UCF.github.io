@@ -1,4 +1,4 @@
-**Refereed Journal Papers**
+## **Refereed Journal Papers**
 
 1.  B. Lal Sharma, **L.E. Perotti**, S. Dharmavaram: "Computational
     modeling of coupled interactions of fluid membranes with embedded
@@ -145,7 +145,7 @@
     reactions". American Concrete Institute, Materials Journal, Vol.
     103, No. 3, pp. 194-202, May-June 2006.
 
-**Refereed Publications in Conference Proceedings**
+## **Refereed Publications in Conference Proceedings**
 
 1.  A. Von Zuben, E. Whitt, F.A.C.
     Viana, **L.E. Perotti**: "Long Axis Cardiac MRI Segmentation Using
