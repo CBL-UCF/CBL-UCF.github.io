@@ -17,7 +17,7 @@ All links and files are accessible to lab members with an account on the CBL Tea
 [Slicer3D](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/Slicer3D.mp4?csf=1&web=1&e=yVi4Ds)
 
 [KevinMoulin_cDTIcode](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/Kevins_code.mp4?csf=1&web=1&e=b9TulJ)\
-Kevin software is available on his GitHub page at [https://github.com/KMoulin/DiffusionRecon](https://github.com/KMoulin/DiffusionRecon)
+Dr. Kevin Moulin software is available on his GitHub page at [https://github.com/KMoulin/DiffusionRecon](https://github.com/KMoulin/DiffusionRecon)
 
 [DENSE analysis toolbox](https://ucf.sharepoint.com/:f:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/DENSE_Kick_start?csf=1&web=1&e=YktdWO)
 
