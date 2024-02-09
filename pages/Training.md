@@ -9,26 +9,29 @@ tags: [Page]
 The following is a list of useful tutorials for research in the lab.\
 All links and files are accessible to lab members with an account on the CBL Teams group. If you do not have one, please ask Dr. Perotti.
 
-# DENSE tutorial
-[DENSE kick start]([https://ucf.sharepoint.com/:f:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/DENSE_Kick_start?csf=1&web=1&e=YktdWO)https://ucf.sharepoint.com/:f:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/DENSE_Kick_start?csf=1&web=1&e=YktdWO])
+# Orientation tutorials for software we routinely use in the group
+[Altair](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/Altair_software.mp4?csf=1&web=1&e=W3Fxs1)
 
-# Software tutorials
-Altair
+[MITK](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/MITK.mp4?csf=1&web=1&e=6AT3pi)
 
-MITK
+[Slicer3D](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/Slicer3D.mp4?csf=1&web=1&e=yVi4Ds)
 
-Slicer3D
+[KevinMoulin_cDTIcode](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/Kevins_code.mp4?csf=1&web=1&e=b9TulJ)
+Kevin software is available on his GitHub page at [https://github.com/KMoulin/DiffusionRecon](https://github.com/KMoulin/DiffusionRecon)
 
-KevinMoulin_cDTIcode
-Kevin software is available on his GitHub page at 
+[DENSE analysis toolbox](https://ucf.sharepoint.com/:f:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/DENSE_Kick_start?csf=1&web=1&e=YktdWO)https://ucf.sharepoint.com/:f:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/DENSE_Kick_start?csf=1&web=1&e=YktdWO)
 
 # 3D printing
-[3D printing with Ultimaker S5]
-([https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/3D%20Print%20with%20Ultimaker%20S5.pdf?csf=1&web=1&e=bIed8P])
+[3D printing with Ultimaker S5](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/3D%20Print%20with%20Ultimaker%20S5.pdf?csf=1&web=1&e=bIed8P)
 
-# Graduation checklist
-[Graduation checklist collected from previous students]([])
+# Admin
+[CECS file share instructions](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Mounting%20CECS%20DFS%20File%20Share.pdf?csf=1&web=1&e=Mh37Mg)
+This is important to backup regularly your research files.
 
----
-Training Information
----
+[Remote Desktop VPN (UCFIT)](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/RemoteDesktopVPN_UCFIT.pdf?csf=1&web=1&e=MbgmjI)
+
+[Wireless connection to LG-TV screen for lab presentations](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Wireless%20connection%20to%20LG-TV.pdf?csf=1&web=1&e=DeyjGY)
+
+[Graduation checklist collected from previous students](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Graduation%20checklist.pdf?csf=1&web=1&e=VfM6ju)
+
+
