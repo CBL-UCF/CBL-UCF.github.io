@@ -25,7 +25,7 @@ Dr. Kevin Moulin software is available on his GitHub page at [https://github.com
 [3D printing with Ultimaker S5](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/3D%20Print%20with%20Ultimaker%20S5.pdf?csf=1&web=1&e=bIed8P)
 
 ## Computational resources
-[Leonardo and Alan GPU servers](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Alan%20and%20Leonardo%20Basic%20Commands.pdf?csf=1&web=1&e=7aQ4x1)\
+[Leonardo and Alan GPU servers](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Alan%20and%20Leonardo%20Basic%20Commands.pdf?csf=1&web=1&e=7aQ4x1)
 
 [CECS file share instructions](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Mounting%20CECS%20DFS%20File%20Share.pdf?csf=1&web=1&e=Mh37Mg)\
 This is important to backup regularly your research files.
