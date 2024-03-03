@@ -53,7 +53,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/shah-wasif-sazzad/), [Google Schol
 
 ---
 
-### Augusto Devaldo Marques
+### Augusto Devald Marques
 ---
 <img style="float: right;" src="../../assets/img/people/augusto.png" width="38%" height="38%">
 <br />
