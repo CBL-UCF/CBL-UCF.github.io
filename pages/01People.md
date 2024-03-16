@@ -18,7 +18,7 @@ feature-img: "assets/img/peoplepic.jpg"
 <img style="float: right;" src="../../assets/img/people/luigi.jpg" width="50%" height="50%">
 <div style="text-align: justify"> Dr. Perotti received his Laurea (B.S./M.S.) in Civil Engineering from Politecnico di Milano, Italy and his M.S. and Ph.D. in Mechanical Engineering from the California Institute of Technology. His graduate studies focused on developing new finite element methods for thin shells and on solving high-rate fluid-solid interaction problems. As a postdoctoral scholar at UCLA, he applied the continuum and computational mechanics tools he learned during his Ph.D to understand the electrophysiology and mechanics of the healthy and failing heart and the conformational changes occurring during the maturation of viral capsids. As an Assistant professor at the University of Central Florida in the MAE department, Dr. Perotti continues the study of cardiac kinematics and function by combining computational mechanics and medical images (e.g., MR and CT). Furthermore, he and his group explore thin shell morphing structures inspired by the maturation of viral capsids.</div>
 \
-Favorite things to do:	     Kayak Polo and Backcountry Hiking\
+Favorite things to do: Kayak Polo and Backcountry Hiking\
 Links: [Google Scholar](https://scholar.google.com/citations?user=caVccQEAAAAJ&hl=en),  [LinkedIn](https://www.linkedin.com/in/luigi-e-perotti-440088122/)
 
 <br />
@@ -48,7 +48,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/)
 
 <div style="text-align: justify">Wasif received his B.Sc in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). He has a M.S. in Mechanical Engineering and currently pursuing a Ph.D. degree specializing in developing efficient algorithms for particle cluster triangulation and visualization based on physical interactions. He has excellent experience working with C/C++ and Python with a decent knowledge of data structures and algorithms. The goal of his current research is to create elasticity inspired compact unfolding of 3D shapes. This type of unfolding will open doors for efficient deployable structures design. </div>
 <br />
-Favorite things to do:	     Soccer, Hiking, Competitive Programming\
+Favorite things to do: Soccer, Hiking, Competitive Programming\
 Links: [LinkedIn](https://www.linkedin.com/in/shah-wasif-sazzad/), [Google Scholar](https://scholar.google.com/citations?user=YZSoh14AAAAJ&hl=en)
 
 <br />
@@ -77,7 +77,7 @@ Links:
 <br />
 <div style="text-align: justify">Uditha received his B.Sc and M.Sc in Engineering at the University of Moratuwa, Sri Lanka. For his undergraduate thesis, he worked on homogenization of woven composites for deployable space structures using multiscale modeling techniques. For his masters thesis, he investigated the non-linear bending behaviour of ultra thin woven composites at the meso-mechanical scale. Currently, he is pursuing his Ph.D in Biomedical Engineering. The goal of his research is to investigate the ventricular motion in active contraction and reveal how cellular and meso-scale changes are reflected in ventricular function and dysfunction. </div>
 <br />
-Favorite things to do:	Reading, Traveling, Bike touring
+Favorite things to do: Reading, Traveling, Bike touring
 Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scholer](https://scholar.google.com/citations?hl=en&user=WVJMR90AAAAJ)
 
 <br />
@@ -95,7 +95,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scho
 <br />
 <div style="text-align: justify">Jonathan is a senior Aerospace Engineering Undergraduate Student and Burnett Honors College Scholar at the University of Central Florida. His background focuses on multiphase fluid dynamics with experience in hydrodynamic modeling and reactive compressible granular flows. His current research studies methods for drag reduction in kayaks with the goal of designing a better polo kayak. </div>
 <br />
-Favorite things to do:	Rock Climbing, Backpacking, Kayaking, Cooking \
+Favorite things to do: Rock Climbing, Backpacking, Kayaking, Cooking \
 Links: [LinkedIn](https://www.linkedin.com/in/jonathan-gitzendanner/),  [Google Scholar](https://scholar.google.com/citations?user=jJcHNGMAAAAJ&hl=en)
 
 <br />
@@ -108,7 +108,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/jonathan-gitzendanner/),  [Google 
 <br />
 <div style="text-align: justify">Sarah is a senior mechanical engineering student at the University of Central Florida. She hopes to work in the biomedical engineering field. She is completing an undergraduate research thesis through UCF’s Burnett Honors College that links the cardiac structure at the micro, meso, and macro scale. She’s also helping work on a liquid bi-propellant rock with UCF’s Knights Experimental Rocketry club that is estimated to be 15 ft tall and launch to 10,000 ft. </div>
 <br />
-Favorite things to do:	Baking and taking care of my plants \
+Favorite things to do: Baking and taking care of my plants \
 Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 
 <br />
@@ -125,9 +125,9 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 ---
 <img style="float: right;" src="../../assets/img/people/tanjib.jpg" width="40%" height="40%">
 
-<div style="text-align: justify">Tanjib received his B.Sc in Mechanical Engineering from the Bangladesh University of Engineering and Technology (BUET). His background includes stress analysis, computer aided design, fluid dynamics, and finite element analysis. The goal of his research project was to develop a robust method for evaluating myocardial stiffness based on cardiac microstructure and displacement measures. His research involves Heart Failure with preserved Ejection Fraction (HFpEF), cardiac microstructure, and cardiac kinematics. Tanjib MS thesis can be found <a href="[url](https://stars.library.ucf.edu/etd2020/1341/)">link here</a>. </div>
+<div style="text-align: justify">Tanjib received his B.Sc in Mechanical Engineering from the Bangladesh University of Engineering and Technology (BUET). His background includes stress analysis, computer aided design, fluid dynamics, and finite element analysis. The goal of his research project was to develop a robust method for evaluating myocardial stiffness based on cardiac microstructure and displacement measures. His research involves Heart Failure with preserved Ejection Fraction (HFpEF), cardiac microstructure, and cardiac kinematics. Tanjib MS thesis can be found <a href="[url](https://stars.library.ucf.edu/etd2020/1341/)"> here</a>. </div>
 <br />
-Favorite things to do:	     Soccer, Reading fictions and Playing video games\
+Favorite things to do: Soccer, Reading fictions and Playing video games\
 Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/)
 
 <br />
@@ -138,9 +138,10 @@ Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&h
 ---
 <img style="float: right;" src="../../assets/img/people/EmilyWhitt.jpg" width="40%" height="35%">
 
-<div style="text-align: justify"> Emily Whitt was a pre-med student majoring in Biomedical Sciences at the University of Central Florida. She was also a Burnett Honors Scholar and a LEAD Scholar. Her research involved segmenting swine cardiac MR Images in order to later develop a machine learning model that will be able to segment cardiac MR Images. Her work resulted in a conference paper published in the proceedings of FIMH 2023 ([link]([https://link.springer.com/chapter/10.1007/978-3-030-78710-3_13](https://link.springer.com/chapter/10.1007/978-3-031-35302-4_28))).  </div>
+<div style="text-align: justify"> Emily Whitt was a pre-med student majoring in Biomedical Sciences at the University of Central Florida. She was also a Burnett Honors Scholar and a LEAD Scholar. Her research involved segmenting swine cardiac MR Images in order to later develop a machine learning model that will be able to segment cardiac MR Images. Her work resulted in a conference paper published in the proceedings of FIMH 2023 (<a href="[url](https://link.springer.com/chapter/10.1007/978-3-031-35302-4_28)"> link</a>). </div>
+  
 <br />
-Favorite things to do:	      Reading, Soccer
+Favorite things to do: Traveling, Baking, Volunteering, Watching Movies
 
 <br />
 <br />
@@ -150,9 +151,9 @@ Favorite things to do:	      Reading, Soccer
 ---
 <img style="float: right;" src="../../assets/img/people/jared.jpg" width="40%" height="40%">
 
-<div style="text-align: justify">Jared was an undergraduate Mechanical Engineering student at UCF. His research sought to model fluid-structure interaction using finite element analysis. Long-term, this line of research could lead to customizing material placement to achieve desired deformations under specified fluid loading conditions. Jared completed a Honors Undergraduate Thesis that can be found [here] (https://stars.library.ucf.edu/honorstheses/1025/) </div>
+<div style="text-align: justify">Jared was an undergraduate Mechanical Engineering student at UCF. His research sought to model fluid-structure interaction using finite element analysis. Long-term, this line of research could lead to customizing material placement to achieve desired deformations under specified fluid loading conditions. Jared completed a Honors Undergraduate Thesis that can be found <a href="[url](https://stars.library.ucf.edu/honorstheses/1025/)"> here </a>. </div>
 <br />
-Favorite things to do:	     Baking, Singing\
+Favorite things to do: Baking, Singing\
 Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
 
 <br />
@@ -164,7 +165,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
 ---
 <img style="float: right;" src="../../assets/img/people/Kylie.jpeg" width="40%" height="40%">
 
-<div style="text-align: justify"> Kylie joined a research project utilizing TensorFlow in order to apply machine learning to the segmentation of MR Images. Her work resulted in a conference paper published in the proceedings of FIMH 2021 ([link](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_13)). </div>
+<div style="text-align: justify"> Kylie joined a research project utilizing TensorFlow in order to apply machine learning to the segmentation of MR Images. Her work resulted in a conference paper published in the proceedings of FIMH 2021 (<a href="[url](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_13)"> link</a>). </div>
 
 <br />
 <br />
@@ -177,7 +178,7 @@ Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
 <img style="float: right;" src="../../assets/img/people/Kestrel.jpg" width="40%" height="40%">
 
 <div style="text-align: justify">
-Kestrel Pourchot was a student in Mechanical Engineering at the University of Central Florida. He worked on prototyping an apparatus for generating skid marks, which will serve as training samples for chemical analysis. Kestrel second research project focused on the design and fabrication of a simple apparatus to study bone cell growth under different mechanical stimuli. Kestrel completed a Honors Undergraduate Thesis that can be found </div> [here](https://stars.library.ucf.edu/honorstheses/800/).
+Kestrel Pourchot was a student in Mechanical Engineering at the University of Central Florida. He worked on prototyping an apparatus for generating skid marks, which will serve as training samples for chemical analysis. Kestrel second research project focused on the design and fabrication of a simple apparatus to study bone cell growth under different mechanical stimuli. Kestrel completed a Honors Undergraduate Thesis that can be found <a href="[url](https://stars.library.ucf.edu/honorstheses/800/)"> here </a>. </div>
 
 <br />
 <br />
@@ -189,7 +190,7 @@ Kestrel Pourchot was a student in Mechanical Engineering at the University of Ce
 
 <div style="text-align: justify">
 Saar was a Mechanical Engineering and Biomedical Science student at UCF. He was a Burnett Medical Scholar and MEDD Honors premed student. The goal of his research was to evaluate regional measures of left ventricular kinematics. His research included computing representative values of ventricular strains during atrial systole, characterizing their regional variation, and identifying their statistical significance.
-Saar completed a Honors Undergraduate Thesis that can be found </div> [here](https://stars.library.ucf.edu/honorstheses/867/).
+Saar completed a Honors Undergraduate Thesis that can be found <a href="[url](https://stars.library.ucf.edu/honorstheses/867/)"> here </a>. </div>
   
 <br />
 <br />
@@ -199,7 +200,10 @@ Saar completed a Honors Undergraduate Thesis that can be found </div> [here](htt
 ---
 <img style="float: right;" src="../../assets/img/people/Carlos.jpg" width="40%" height="35%">
 
-<div style="text-align: justify"> Carlos was an undergraduate student in Mechanical Engineering. Before joining the group, Carlos has worked on the fabrication of graphene-based single electron transistors for studying transport of metal nanoparticles. After joining the lab, Carlos investigated  how to determine arterial material properties and how to construct finite element models of the aortic arch. Carlos completed a Honors Undergraduate Thesis that can be found </div> [here](https://stars.library.ucf.edu/honorstheses/784/) </div>
+<div style="text-align: justify"> Carlos was an undergraduate student in Mechanical Engineering. Before joining the group, Carlos has worked on the fabrication of graphene-based single electron transistors for studying transport of metal nanoparticles. After joining the lab, Carlos investigated  how to determine arterial material properties and how to construct finite element models of the aortic arch. Carlos completed a Honors Undergraduate Thesis that can be found <a href="[url](https://stars.library.ucf.edu/honorstheses/784/)"> here </a>. </div>
+
 <br />
+<br />
+
 Favorite things to do:	      Reading, Soccer
 
