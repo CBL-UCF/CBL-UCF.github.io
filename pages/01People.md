@@ -123,7 +123,7 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 ---
 <img style="float: right;" src="../../assets/img/people/tanjib.jpg" width="40%" height="40%">
 
-<div style="text-align: justify">Tanjib received his B.Sc in Mechanical Engineering from the Bangladesh University of Engineering and Technology (BUET). His background includes stress analysis, computer aided design, fluid dynamics, and finite element analysis. The goal of his research project was to develop a robust method for evaluating myocardial stiffness based on cardiac microstructure and displacement measures. His research involves Heart Failure with preserved Ejection Fraction (HFpEF), cardiac microstructure, and cardiac kinematics.</div>
+<div style="text-align: justify">Tanjib received his B.Sc in Mechanical Engineering from the Bangladesh University of Engineering and Technology (BUET). His background includes stress analysis, computer aided design, fluid dynamics, and finite element analysis. The goal of his research project was to develop a robust method for evaluating myocardial stiffness based on cardiac microstructure and displacement measures. His research involves Heart Failure with preserved Ejection Fraction (HFpEF), cardiac microstructure, and cardiac kinematics. Tanjib MS thesis can be found [here](https://stars.library.ucf.edu/etd2020/1341/). </div>
 <br />
 Favorite things to do:	     Soccer, Reading fictions and Playing video games\
 Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/)
@@ -133,11 +133,22 @@ Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&h
 <br />
 
 ---
+### Emily Whitt (Undergraduate)
+---
+<img style="float: right;" src="../../assets/img/people/EmilyWhitt.jpg" width="40%" height="35%">
+
+<div style="text-align: justify"> Emily Whitt was a pre-med student majoring in Biomedical Sciences at the University of Central Florida. She was also a Burnett Honors Scholar and a LEAD Scholar. Her research involved segmenting swine cardiac MR Images in order to later develop a machine learning model that will be able to segment cardiac MR Images. Her work resulted in a conference paper published in the proceedings of FIMH 2023 ([link]([https://link.springer.com/chapter/10.1007/978-3-030-78710-3_13](https://link.springer.com/chapter/10.1007/978-3-031-35302-4_28))).  </div>
+<br />
+Favorite things to do:	      Reading, Soccer
+
+
+
+---
 ### Jared Decker (Undergraduate)
 ---
 <img style="float: right;" src="../../assets/img/people/jared.jpg" width="40%" height="40%">
 
-<div style="text-align: justify">Jared was an undergraduate Mechanical Engineering student at UCF. His research sought to model fluid-structure interaction using finite element analysis. Long-term, this line of research could lead to customizing material placement to achieve desired deformations under specified fluid loading conditions.</div>
+<div style="text-align: justify">Jared was an undergraduate Mechanical Engineering student at UCF. His research sought to model fluid-structure interaction using finite element analysis. Long-term, this line of research could lead to customizing material placement to achieve desired deformations under specified fluid loading conditions. Jared completed a Honors Undergraduate Thesis that can be found [here] (https://stars.library.ucf.edu/honorstheses/1025/) </div>
 <br />
 Favorite things to do:	     Baking, Singing\
 Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
@@ -148,11 +159,46 @@ Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
 <br />
 
 ---
-### Emily Whitt (Undergraduate)
+### Kylie Heckman (Undergraduate)
 ---
-<img style="float: right;" src="../../assets/img/people/emily.jpg" width="40%" height="35%">
+<img style="float: right;" src="../../assets/img/people/Kylie.jpeg" width="40%" height="40%">
 
-<div style="text-align: justify">Emily Whitt was a pre-med freshman majoring in Biomedical Sciences at the University of Central Florida. She was also a Burnett Honors Scholar and a LEAD Scholar. Her research involved segmenting swine cardiac MR Images in order to later develop a machine learning model that will be able to segment cardiac MR Images. </div>
+<div style="text-align: justify"> Kylie joined a research project utilizing TensorFlow in order to apply machine learning to the segmentation of MR Images. Her work resulted in a conference paper published in the proceedings of FIMH 2021 ([link](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_13)). </div>
+
 <br />
-Favorite things to do:	      Traveling, Baking, Volunteering, Watching Movies\
-Links: [LinkedIn](https://www.linkedin.com/in/emily-whitt-5534631b7/)
+<br />
+<br />
+<br />
+
+
+
+---
+### Kestrel Pourchot (Undergraduate)
+---
+<img style="float: right;" src="../../assets/img/people/Kestrel.jpg" width="40%" height="40%">
+
+<div style="text-align: justify">
+Kestrel Pourchot was a student in Mechanical Engineering at the University of Central Florida. He worked on prototyping an apparatus for generating skid marks, which will serve as training samples for chemical analysis. Kestrel second research project focused on the design and fabrication of a simple apparatus to study bone cell growth under different mechanical stimuli. Kestrel completed a Honors Undergraduate Thesis that can be found [here](https://stars.library.ucf.edu/honorstheses/800/).
+
+
+
+---
+### Saar Peles (Undergraduate)
+---
+<img style="float: right;" src="../../assets/img/people/Saar.jpg" width="40%" height="40%">
+
+<div style="text-align: justify">
+Saar was a Mechanical Engineering and Biomedical Science student at UCF. He was a Burnett Medical Scholar and MEDD Honors premed student. The goal of his research was to evaluate regional measures of left ventricular kinematics. His research included computing representative values of ventricular strains during atrial systole, characterizing their regional variation, and identifying their statistical significance.
+Saar completed a Honors Undergraduate Thesis that can be found [here](https://stars.library.ucf.edu/honorstheses/867/).
+  
+
+
+---
+### Carlos Borras (Undergraduate)
+---
+<img style="float: right;" src="../../assets/img/people/Carlos.jpg" width="40%" height="35%">
+
+<div style="text-align: justify"> Carlos was an undergraduate student in Mechanical Engineering. Before joining the group, Carlos has worked on the fabrication of graphene-based single electron transistors for studying transport of metal nanoparticles. After joining the lab, Carlos investigated  how to determine arterial material properties and how to construct finite element models of the aortic arch. Carlos completed a Honors Undergraduate Thesis that can be found [here](https://stars.library.ucf.edu/honorstheses/784/) </div>
+<br />
+Favorite things to do:	      Reading, Soccer
+
