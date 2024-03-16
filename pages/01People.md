@@ -13,7 +13,6 @@ feature-img: "assets/img/peoplepic.jpg"
 </div>
 
 ---
-
 ### Luigi E. Perotti
 ---
 <img style="float: right;" src="../../assets/img/people/luigi.jpg" width="50%" height="50%">
@@ -28,8 +27,8 @@ Links: [Google Scholar](https://scholar.google.com/citations?user=caVccQEAAAAJ&h
 <div class="header" style="text-align:center">
   <h2>Graduate Students</h2>
 </div>
----
 
+---
 ### Mehlil Ahmed
 ---
 <img style="float: right;" src="../../assets/img/people/mehlil.jpg">
@@ -39,9 +38,10 @@ Links: [Google Scholar](https://scholar.google.com/citations?user=caVccQEAAAAJ&h
 Favorite things to do: Painting, Cooking, Reading books\
 Links: [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/)
 
+<br />
+<br />
+
 ---
-
-
 ### Shah Wasif Sazzad
 ---
 <img style="float: right;" src="../../assets/img/people/wasif.jpg" width="40%" height="40%">
@@ -51,8 +51,10 @@ Links: [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/)
 Favorite things to do:	     Soccer, Hiking, Competitive Programming\
 Links: [LinkedIn](https://www.linkedin.com/in/shah-wasif-sazzad/), [Google Scholar](https://scholar.google.com/citations?user=YZSoh14AAAAJ&hl=en)
 
----
+<br />
+<br />
 
+---
 ### Augusto Devald Marques
 ---
 <img style="float: right;" src="../../assets/img/people/augusto.png" width="38%" height="38%">
@@ -63,13 +65,12 @@ His Ph.D. research includes cardiac kinematics, finite element analysis, and mac
 <br />
 Favorite things to do:	     \
 Links: 
+
 <br />
 <br />
-<br />
-<br />
+
 
 ---
-
 ### Uditha Weerasinghage
 ---
 <img style="float: right;" src="../../assets/img/people/uditha.png" width="42%" height="42%">
@@ -79,8 +80,8 @@ Links:
 Favorite things to do:	Reading, Traveling, Bike touring
 Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scholer](https://scholar.google.com/citations?hl=en&user=WVJMR90AAAAJ)
 
- <br />
-
+<br />
+<br />
 
  ---
 
@@ -101,7 +102,6 @@ Links: [LinkedIn](https://www.linkedin.com/in/jonathan-gitzendanner/),  [Google 
 <br />
 
 ---
-
 ### Sarah Bulger
 ---
 <img style="float: right;" src="../../assets/img/people/sarah.png" width="45%" height="45%">
@@ -111,8 +111,10 @@ Links: [LinkedIn](https://www.linkedin.com/in/jonathan-gitzendanner/),  [Google 
 Favorite things to do:	Baking and taking care of my plants \
 Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 
----
+<br />
+<br />
 
+---
 ---
 <div class="header" style="text-align:center">
   <h2>Past Students</h2>
@@ -123,11 +125,10 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 ---
 <img style="float: right;" src="../../assets/img/people/tanjib.jpg" width="40%" height="40%">
 
-<div style="text-align: justify">Tanjib received his B.Sc in Mechanical Engineering from the Bangladesh University of Engineering and Technology (BUET). His background includes stress analysis, computer aided design, fluid dynamics, and finite element analysis. The goal of his research project was to develop a robust method for evaluating myocardial stiffness based on cardiac microstructure and displacement measures. His research involves Heart Failure with preserved Ejection Fraction (HFpEF), cardiac microstructure, and cardiac kinematics. Tanjib MS thesis can be found [here](https://stars.library.ucf.edu/etd2020/1341/). </div>
+<div style="text-align: justify">Tanjib received his B.Sc in Mechanical Engineering from the Bangladesh University of Engineering and Technology (BUET). His background includes stress analysis, computer aided design, fluid dynamics, and finite element analysis. The goal of his research project was to develop a robust method for evaluating myocardial stiffness based on cardiac microstructure and displacement measures. His research involves Heart Failure with preserved Ejection Fraction (HFpEF), cardiac microstructure, and cardiac kinematics. Tanjib MS thesis can be found </div> [here](https://stars.library.ucf.edu/etd2020/1341/). 
 <br />
 Favorite things to do:	     Soccer, Reading fictions and Playing video games\
 Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/)
-
 
 <br />
 <br />
@@ -141,7 +142,8 @@ Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&h
 <br />
 Favorite things to do:	      Reading, Soccer
 
-
+<br />
+<br />
 
 ---
 ### Jared Decker (Undergraduate)
@@ -152,11 +154,10 @@ Favorite things to do:	      Reading, Soccer
 <br />
 Favorite things to do:	     Baking, Singing\
 Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
+
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 ---
 ### Kylie Heckman (Undergraduate)
@@ -165,8 +166,6 @@ Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
 
 <div style="text-align: justify"> Kylie joined a research project utilizing TensorFlow in order to apply machine learning to the segmentation of MR Images. Her work resulted in a conference paper published in the proceedings of FIMH 2021 ([link](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_13)). </div>
 
-<br />
-<br />
 <br />
 <br />
 
