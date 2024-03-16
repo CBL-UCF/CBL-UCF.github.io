@@ -177,9 +177,10 @@ Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
 <img style="float: right;" src="../../assets/img/people/Kestrel.jpg" width="40%" height="40%">
 
 <div style="text-align: justify">
-Kestrel Pourchot was a student in Mechanical Engineering at the University of Central Florida. He worked on prototyping an apparatus for generating skid marks, which will serve as training samples for chemical analysis. Kestrel second research project focused on the design and fabrication of a simple apparatus to study bone cell growth under different mechanical stimuli. Kestrel completed a Honors Undergraduate Thesis that can be found [here](https://stars.library.ucf.edu/honorstheses/800/).
+Kestrel Pourchot was a student in Mechanical Engineering at the University of Central Florida. He worked on prototyping an apparatus for generating skid marks, which will serve as training samples for chemical analysis. Kestrel second research project focused on the design and fabrication of a simple apparatus to study bone cell growth under different mechanical stimuli. Kestrel completed a Honors Undergraduate Thesis that can be found </div> [here](https://stars.library.ucf.edu/honorstheses/800/).
 
-
+<br />
+<br />
 
 ---
 ### Saar Peles (Undergraduate)
@@ -188,16 +189,17 @@ Kestrel Pourchot was a student in Mechanical Engineering at the University of Ce
 
 <div style="text-align: justify">
 Saar was a Mechanical Engineering and Biomedical Science student at UCF. He was a Burnett Medical Scholar and MEDD Honors premed student. The goal of his research was to evaluate regional measures of left ventricular kinematics. His research included computing representative values of ventricular strains during atrial systole, characterizing their regional variation, and identifying their statistical significance.
-Saar completed a Honors Undergraduate Thesis that can be found [here](https://stars.library.ucf.edu/honorstheses/867/).
+Saar completed a Honors Undergraduate Thesis that can be found </div> [here](https://stars.library.ucf.edu/honorstheses/867/).
   
-
+<br />
+<br />
 
 ---
 ### Carlos Borras (Undergraduate)
 ---
 <img style="float: right;" src="../../assets/img/people/Carlos.jpg" width="40%" height="35%">
 
-<div style="text-align: justify"> Carlos was an undergraduate student in Mechanical Engineering. Before joining the group, Carlos has worked on the fabrication of graphene-based single electron transistors for studying transport of metal nanoparticles. After joining the lab, Carlos investigated  how to determine arterial material properties and how to construct finite element models of the aortic arch. Carlos completed a Honors Undergraduate Thesis that can be found [here](https://stars.library.ucf.edu/honorstheses/784/) </div>
+<div style="text-align: justify"> Carlos was an undergraduate student in Mechanical Engineering. Before joining the group, Carlos has worked on the fabrication of graphene-based single electron transistors for studying transport of metal nanoparticles. After joining the lab, Carlos investigated  how to determine arterial material properties and how to construct finite element models of the aortic arch. Carlos completed a Honors Undergraduate Thesis that can be found </div> [here](https://stars.library.ucf.edu/honorstheses/784/) </div>
 <br />
 Favorite things to do:	      Reading, Soccer
 
