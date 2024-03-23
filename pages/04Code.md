@@ -24,7 +24,7 @@ If you decide to use this code in your research, please cite the publication abo
 <br/><br/><br/>
 
 
-# Computational Soft Matter (SMoL) group
+# Computational Soft Matter group
 The following codes have been developed in collaboration with the group of [Dr. Dharmavaram at Bucknell University](https://www.bucknell.edu/fac-staff/sanjay-dharmavaram).
 
 ## Finite Element C++ research code
