@@ -241,7 +241,7 @@ feature-img: "assets/img/publication.jpg"
     of Viral Capsids". In *Protein Cages: Methods and Protocols*, B. P.
     Orner editor, Springer, pp. 139-188, 2015.
 
-## **Book edited**
+## **Book (Proceedings) edited**
 
 1.  D.B. Ennis, L.E. Perotti, V.Y. Wang: "Functional Imaging and
     Modeling of the Heart". 11th International Conference, FIMH 2021,
