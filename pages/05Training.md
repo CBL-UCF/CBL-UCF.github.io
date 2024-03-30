@@ -14,7 +14,7 @@ All links and files are accessible to lab members with an account on the CBL Tea
 
 [MITK](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/MITK.mp4?csf=1&web=1&e=6AT3pi)
 
-[Slicer3D](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/Slicer3D.mp4?csf=1&web=1&e=yVi4Ds)
+[3DSlicer](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/Slicer3D.mp4?csf=1&web=1&e=yVi4Ds)
 
 [KevinMoulin_cDTIcode](https://ucf.sharepoint.com/:v:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Software_tutorials/Kevins_code.mp4?csf=1&web=1&e=b9TulJ)\
 Dr. Kevin Moulin software is available on his GitHub page at [https://github.com/KMoulin/DiffusionRecon](https://github.com/KMoulin/DiffusionRecon)
@@ -30,7 +30,7 @@ Dr. Kevin Moulin software is available on his GitHub page at [https://github.com
 [CECS file share instructions](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Mounting%20CECS%20DFS%20File%20Share.pdf?csf=1&web=1&e=Mh37Mg)\
 This is important to backup regularly your research files.
 
-[Remote Desktop VPN (UCFIT)](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/RemoteDesktopVPN_UCFIT.pdf?csf=1&web=1&e=MbgmjI)
+[Remote Desktop VPN (UCF IT)](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/RemoteDesktopVPN_UCFIT.pdf?csf=1&web=1&e=MbgmjI)
 
 ## Admin
 [Wireless connection to LG-TV screen for lab presentations](https://ucf.sharepoint.com/:b:/r/sites/ComputationalBiomechanicsLab_GRP/Shared%20Documents/General/Wireless%20connection%20to%20LG-TV.pdf?csf=1&web=1&e=DeyjGY)
