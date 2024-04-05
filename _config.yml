@@ -5,7 +5,7 @@ url: "https://cbl-ucf.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: CBL                                # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar:                          # Empty for no avatar in navbar
+avatar: assests/img/logoavatarnew.png                        # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
