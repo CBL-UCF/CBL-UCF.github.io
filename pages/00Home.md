@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Home
-permalink: /index.html/
+permalink: /Home/
 hide: false
 ---
