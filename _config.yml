@@ -20,9 +20,6 @@ excerpt: true                                           # Or "truncate" (first 2
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
----
-News on the channel
----
 
 # Features
 # More in the _data folder for share buttons, author and language
