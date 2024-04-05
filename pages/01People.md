@@ -16,7 +16,6 @@ feature-img: "assets/img/peoplepic.jpg"
 ### Luigi E. Perotti
 ---
 <img style="float: right;" src="../assets/img/people/luigi.jpg" width="50%" height="50%">
-<img style="float: right;" src="../assets/img/events/Defense1.jpg" width="50%" height="50%">
 <div style="text-align: justify"> Dr. Perotti received his Laurea (B.S./M.S.) in Civil Engineering from Politecnico di Milano, Italy and his M.S. and Ph.D. in Mechanical Engineering from the California Institute of Technology. His graduate studies focused on developing new finite element methods for thin shells and on solving high-rate fluid-solid interaction problems. As a postdoctoral scholar at UCLA, he applied the continuum and computational mechanics tools he learned during his Ph.D to understand the electrophysiology and mechanics of the healthy and failing heart and the conformational changes occurring during the maturation of viral capsids. As an Assistant professor at the University of Central Florida in the MAE department, Dr. Perotti continues the study of cardiac kinematics and function by combining computational mechanics and medical images (e.g., MR and CT). Furthermore, he and his group explore thin shell morphing structures inspired by the maturation of viral capsids.</div>
 \
 Favorite things to do: Kayak Polo and Backcountry Hiking\
