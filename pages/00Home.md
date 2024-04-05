@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Home
-permalink: /https://cbl-ucf.github.io/
+permalink: /index.html/
 hide: false
 ---
