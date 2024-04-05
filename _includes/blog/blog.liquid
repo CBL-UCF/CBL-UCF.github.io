@@ -1,9 +1,8 @@
 <div class="posts">
     <header>
             <h1>
-              Lab News
+              <pre>Lab News</pre>
             </h1>
-            {% include blog/post_info.liquid author=post.author date=post.date %}
     </header>
     {% for post in paginator.posts %}
     <div class="post-teaser">
@@ -16,11 +15,11 @@
         {% endif %}
         <span>
           <header>
-            <h1>
+            <h4>
               <a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title }}
               </a>
-            </h1>
+            </h4>
             {% include blog/post_info.liquid author=post.author date=post.date %}
           </header>
           {% if site.excerpt or site.theme_settings.excerpt %}
