@@ -3,7 +3,7 @@ layout: page
 title: Mehlil's PhD Defense
 ---
 Congratulations
-<img src="../assets/img/events/Defense1.jpg" width="10%" height="10%">
+<img src="../assets/img/events/Defense1.JPG" width="10%" height="10%">
 Congratulations
 <img src="../assets/img/events/Defense2.jpg" width="10%" height="10%">
 
