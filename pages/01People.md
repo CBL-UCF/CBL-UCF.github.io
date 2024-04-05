@@ -121,12 +121,9 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 </div>
 
 ---
-### Mohammad Tanjib Rahman (Graduate)
+# Mohammad Tanjib Rahman (Graduate)
 ---
-<img style="float: right;" src="../../assets/img/people/tanjib.jpg" width="40%" height="40%">
-
-<div style="text-align: justify">Tanjib received his B.Sc in Mechanical Engineering from the Bangladesh University of Engineering and Technology (BUET). His background includes stress analysis, computer aided design, fluid dynamics, and finite element analysis. The goal of his research project was to develop a robust method for evaluating myocardial stiffness based on cardiac microstructure and displacement measures. His research involves Heart Failure with preserved Ejection Fraction (HFpEF), cardiac microstructure, and cardiac kinematics. Tanjib MS thesis can be found <a href="[url](https://stars.library.ucf.edu/etd2020/1341/)"> here</a>. </div>
-<br />
+<img style="float: right;" src="../../assets/img/people/tanjib.jpg" width="05%" height="05%">
 Favorite things to do: Soccer, Reading fictions and Playing video games\
 Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/)
 
