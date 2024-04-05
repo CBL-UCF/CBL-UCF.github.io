@@ -3,5 +3,7 @@ layout: post
 title: Mehlil's PhD Defense
 ---
 
-More colors with less light. Click the **half-moon** most top-right button to turn the lights ON/OFF.
-Here is a bit of everything, so you can check how the theme look, have fun! 👌
+2024-03-28: Congratulations to Dr. Mehlil Ahmed for successfully defending her PhD thesis titled: ``Characterizing the Material Response of the Passive Myocardium''
+
+<img style="float: right;" src="../../assets/img/events/Defense1.png" >
+<img style="float: right;" src="../../assets/img/events/Defense2.png" >
