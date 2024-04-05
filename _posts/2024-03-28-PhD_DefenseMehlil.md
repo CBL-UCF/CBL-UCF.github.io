@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Mehlil's PhD Defense
 ---
 <img src="../assets/img/events/Defense1.jpg" width="40%" height="40%">
