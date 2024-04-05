@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mehlil's PhD Defense
-feature-img: "assets/img/events/Defense1.jpg"
 ---
 
 {% include aligner.html images="events/Defense2.jpg,events/Defense1.jpg" column=2 %}
