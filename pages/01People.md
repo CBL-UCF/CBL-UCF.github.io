@@ -113,7 +113,7 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 <br />
 <br />
 
----
+
 ---
 <div class="header" style="text-align:center">
   <h2>Past Students</h2>
