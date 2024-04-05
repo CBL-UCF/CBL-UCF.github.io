@@ -3,7 +3,7 @@ layout: post
 title: Mehlil's PhD Defense
 feature-img: "assets/img/events/Defense1.jpg"
 ---
-<img style="float: right;" src="../assets/img/events/Defense1.jpg" width="50%" height="50%">
+<img style="float: right;" src="assets/img/events/Defense1.jpg" width="50%" height="50%">
 
 <img src="assets/img/events/Defense1.jpg" width="500">
 
