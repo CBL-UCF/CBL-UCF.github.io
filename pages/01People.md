@@ -121,33 +121,12 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 </div>
 
 <h4>Mohammad Tanjib Rahman (Graduate)</h4> 
-<img style="float: right;" src="../../assets/img/people/tanjib.jpg" width="05%" height="05%">
 Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/)
-<br />
-<br />
 <h4>Emily Whitt (Undergraduate)</h4>  
-<img style="float: right;" src="../../assets/img/people/EmilyWhitt.jpg" width="40%" height="35%">
-<br />
-<br />
 <h4>Jared Decker (Undergraduate)</h4> 
-<img style="float: right;" src="../../assets/img/people/jared.jpg" width="40%" height="40%">
 Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
-<br />
-<br />
 <h4>Kylie Heckman (Undergraduate)</h4> 
-<img style="float: right;" src="../../assets/img/people/Kylie.jpeg" width="40%" height="40%">
-<br />
-<br />
 <h4>Kestrel Pourchot (Undergraduate)</h4> 
-<img style="float: right;" src="../../assets/img/people/Kestrel.jpg" width="40%" height="40%">
-<br />
-<br />
 <h4>Saar Peles (Undergraduate)</h4> 
-<img style="float: right;" src="../../assets/img/people/Saar.jpg" width="40%" height="40%">
-<br />
-<br />
 <h4>Carlos Borras (Undergraduate)</h4> 
-<img style="float: right;" src="../../assets/img/people/Carlos.jpg" width="40%" height="35%">
-<br />
-<br />
 
