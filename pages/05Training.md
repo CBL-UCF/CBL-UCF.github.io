@@ -2,7 +2,7 @@
 layout: page
 title: Training
 permalink: /training/
-gallery_path: "assets/img/codepic.jpg"
+gallery_path: "assets/img/training.jpg"
 tags: [Page]
 ---
 
