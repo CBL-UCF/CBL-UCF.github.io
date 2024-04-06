@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /Publications/
-feature-img: "assets/img/publication.jpg"
+feature-img: "assets/img/publicationrecent.jpg"
 ---
 
 ## **Refereed Journal Papers**
