@@ -7,11 +7,11 @@
     {% for post in paginator.posts %}
     <p>
           <header>
-            <h6>
+            <h4>
               <a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title }}
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ post.title }}
               </a>
-            </h6>
+            </h4>
           </header>
     </p>
     {% endfor %}
