@@ -118,9 +118,9 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
   <h2>Past Students</h2>
 </div>
 ---
-<h4>Mohammad Tanjib Rahman (Graduate)</h4> Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/)
+<h4>Mohammad Tanjib Rahman (Graduate) Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/) </h4>
 <h4>Emily Whitt (Undergraduate)</h4>  
-<h4>Jared Decker (Undergraduate)</h4> Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/)
+<h4>Jared Decker (Undergraduate) Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/) </h4>
 <h4>Kylie Heckman (Undergraduate)</h4> 
 <h4>Kestrel Pourchot (Undergraduate)</h4> 
 <h4>Saar Peles (Undergraduate)</h4> 
