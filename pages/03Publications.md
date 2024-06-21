@@ -158,92 +158,25 @@ feature-img: "assets/img/publicationrecent.jpg"
 
 ## **Refereed Publications in Conference Proceedings**
 
-1.   M . Naqizadeh Jahromi, A. Delavald Marques, M. Ahmed, Z.Q. Liu, A.J. Hannum, D.B. Ennis, L.E. Perotti, D. Wu: "An nnU-Net model to Enhance Segmentation of Cardiac Cine DENSE-MRI using Phase Information." Multimodal4Health Workshop at The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024), Orlando, Florida, June 2024.
-2.  A. Von Zuben, E. Whitt, F.A.C.
-    Viana, L.E. Perotti: "Long Axis Cardiac MRI Segmentation Using
-    Anatomically-Guided UNets and Transfer Learning". International
-    Conference on Functional Imaging and Modeling of the Heart,
-    Springer, pp. 274-282, Lyon, France, June 2023.
-4.  D. Ogiermann, D. Balzani, L.E. Perotti: "An Extended
-    Generalized Hill Model for Cardiac Tissue: Comparison with Different
-    Approaches Based on Experimental Data". International Conference on
-    Functional Imaging and Modeling of the Heart, Springer, pp. 555-564,
-    Lyon, France, June 2023.
-
-5.  A.J. Wilson, J.Q. Han, L.E. Perotti, D.B. Ennis: "Ventricular
-    Helix Angle Trends and Long-Range Connectivity". International
-    Conference on Functional Imaging and Modeling of the Heart,
-    Springer, pp. 64-73, Lyon, France, June 2023.
-
-6.  T. Rahman, K. Moulin, D.B. Ennis, L.E. Perotti:
-    "Diffusion Biomarkers in Chronic Myocardial Infarction". Functional
-    Imaging and Modeling of the Heart, Springer, pp. 137-147, Stanford,
-    California, June 2021.
-
-7.  A. Von Zuben, K. Heckman, F.A.
-    Viana, L.E. Perotti: "A Multi-step Machine Learning Approach for
-    Short Axis MR Images Segmentation". Functional Imaging and Modeling
-    of the Heart, Springer, pp. 122-133, Stanford, California,
-    June 2021.
-
-8.  D. Ogiermann, D. Balzani, L.E. Perotti: "The Effect
-    of Modeling Assumptions on the ECG in Monodomain and Bidomain
-    Simulations". Functional Imaging and Modeling of the Heart,
-    Springer, pp. 503-514, Stanford, California, June 2021.
-
-9.  M. Loecher, A.J. Hannum, L.E. Perotti, D.B. Ennis:
-    "Arbitrary Point Tracking with Machine Learning to Measure Cardiac
-    Strains in Tagged MRI". Functional Imaging and Modeling of the
-    Heart, Springer, pp. 213-222, Stanford, California, June 2021.
-
-10.  A.V.S. Ponnaluri, I.A. Verzhbinsky, J.
-    Eldredge, A. Garfinkel, D.B. Ennis, L.E. Perotti: "Model of Left
-    Ventricular Contraction: Validation Criteria and Boundary
-    Conditions\". Functional Imaging and Modeling of the Heart,
-    Bordeaux, France, June 2019.
-
-11.  T. Cork, L.E. Perotti, I.A. Verzhbinsky,
-    M. Loecher, D.B. Ennis: "High-Resolution *Ex Vivo* Microstructural
-    MRI After Restoring Ventricular Geometry via 3D Printing\".
-    Functional Imaging and Modeling of the Heart, Bordeaux, France,
-    June 2019.
-
-12. I.A. Verzhbinsky, P. Magrath,
-    E. Aliotta, D.B. Ennis, L.E. Perotti: "Time Resolved
-    Displacement-Based Registration of *In Vivo* cDTI Cardiomyocyte
-    Orientations". IEEE International Symposium on Biomedical Imaging
-    (ISBI), Washington, D.C., April 2018.
-
-13. L.E. Perotti, P. Magrath,
-    I.A. Verzhbinsky, E. Aliotta, K. Moulin,
-    D.B. Ennis: "Microstructurally Anchored Cardiac Kinematics by
-    Combining *In Vivo* DENSE MRI and cDTI". Functional Imaging and
-    Modelling of the Heart, Toronto, Canada, June 2017 --- [Best Paper Award]
-
-14. B. Li, L. Perotti, M. Adams, J. Mihaly, A.J. Rosakis,
-    M. Stalzer, M. Ortiz: "Large scale Optimal Transportation Meshfree
-    (OTM) simulations of hypervelocity impact". Procedia Engineering,
-    Vol. 58, pp. 320-327, 2013.
-
-15. A. Bompadre, L.E. Perotti, C.J. Cyron, M. Ortiz: "HOLMES:
-    Convergent Meshfree Approximation Schemes of Arbitrary Order and
-    Smoothness". Proceedings of the Sixth International Workshop on
-    Meshfree Methods for PDE, Bonn, Germany, 2011. Published in:
-    Meshfree Methods for Partial Differential Equations VI, Lecture
-    Notes in Computational Science and Engineering, Vol. 89, pp.
-    111-126, M. Griebel and M.A. Schweitzer editors, Springer-Verlag
-    Berlin Heidelberg 2013.
-
+1. M . Naqizadeh Jahromi, A. Delavald Marques, M. Ahmed, Z.Q. Liu, A.J. Hannum, D.B. Ennis, L.E. Perotti, D. Wu: "An nnU-Net model to Enhance Segmentation of Cardiac Cine DENSE-MRI using Phase Information." Multimodal4Health Workshop at The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024), Orlando, Florida, June 2024.A.
+2. Von Zuben, E. Whitt, F.A.C. Viana, L.E. Perotti: "Long Axis Cardiac MRI Segmentation Using Anatomically-Guided UNets and Transfer Learning". International Conference on Functional Imaging and Modeling of the Heart, Springer, pp. 274-282, Lyon, France, June 2023.
+3. D. Ogiermann, D. Balzani, L.E. Perotti: "An Extended Generalized Hill Model for Cardiac Tissue: Comparison with Different Approaches Based on Experimental Data". International Conference on Functional Imaging and Modeling of the Heart, Springer, pp. 555-564, Lyon, France, June 2023.
+4. A.J. Wilson, J.Q. Han, L.E. Perotti, D.B. Ennis: "Ventricular Helix Angle Trends and Long-Range Connectivity". International Conference on Functional Imaging and Modeling of the Heart, Springer, pp. 64-73, Lyon, France, June 2023.
+5. T. Rahman, K. Moulin, D.B. Ennis, L.E. Perotti: "Diffusion Biomarkers in Chronic Myocardial Infarction". Functional Imaging and Modeling of the Heart, Springer, pp. 137-147, Stanford, California, June 2021.
+6. A. Von Zuben, K. Heckman, F.A. Viana, L.E. Perotti: "A Multi-step Machine Learning Approach for Short Axis MR Images Segmentation". Functional Imaging and Modeling of the Heart, Springer, pp. 122-133, Stanford, California, June 2021.
+7. D. Ogiermann, D. Balzani, L.E. Perotti: "The Effect of Modeling Assumptions on the ECG in Monodomain and Bidomain Simulations". Functional Imaging and Modeling of the Heart, Springer, pp. 503-514, Stanford, California, June 2021.
+8. M. Loecher, A.J. Hannum, L.E. Perotti, D.B. Ennis: "Arbitrary Point Tracking with Machine Learning to Measure Cardiac Strains in Tagged MRI". Functional Imaging and Modeling of the Heart, Springer, pp. 213-222, Stanford, California, June 2021.
+9. A.V.S. Ponnaluri, I.A. Verzhbinsky, J. Eldredge, A. Garfinkel, D.B. Ennis, L.E. Perotti: "Model of Left Ventricular Contraction: Validation Criteria and Boundary Conditions". Functional Imaging and Modeling of the Heart, Bordeaux, France, June 2019.
+10. T. Cork, L.E. Perotti, I.A. Verzhbinsky, M. Loecher, D.B. Ennis: "High-Resolution *Ex Vivo* Microstructural MRI After Restoring Ventricular Geometry via 3D Printing". Functional Imaging and Modeling of the Heart, Bordeaux, France, June 2019.
+11. I.A. Verzhbinsky, P. Magrath, E. Aliotta, D.B. Ennis, L.E. Perotti: "Time Resolved Displacement-Based Registration of *In Vivo* cDTI Cardiomyocyte Orientations". IEEE International Symposium on Biomedical Imaging (ISBI), Washington, D.C., April 2018.
+12. L.E. Perotti, P. Magrath, I.A. Verzhbinsky, E. Aliotta, K. Moulin, D.B. Ennis: "Microstructurally Anchored Cardiac Kinematics by Combining In Vivo DENSE MRI and cDTI". Functional Imaging and Modelling of the Heart, Toronto, Canada, June 2017 --- [Best Paper Award]
+13. B. Li, L. Perotti, M. Adams, J. Mihaly, A.J. Rosakis, M. Stalzer, M. Ortiz: "Large scale Optimal Transportation Meshfree (OTM) simulations of hypervelocity impact". Procedia Engineering, Vol. 58, pp. 320-327, 2013.
+14. A. Bompadre, L.E. Perotti, C.J. Cyron, M. Ortiz: "HOLMES: Convergent Meshfree Approximation Schemes of Arbitrary Order and Smoothness". Proceedings of the Sixth International Workshop on Meshfree Methods for PDE, Bonn, Germany, 2011. Published in: Meshfree Methods for Partial Differential Equations VI, Lecture Notes in Computational Science and Engineering, Vol. 89, pp. 111-126, M. Griebel and M.A. Schweitzer editors, Springer-Verlag Berlin Heidelberg 2013.
 
 ## **Refereed Chapters in edited Book**
 
-1.  M.M. Gibbons, L.E. Perotti, W.S. Klug: "Computational Mechanics
-    of Viral Capsids". In *Protein Cages: Methods and Protocols*, B. P.
-    Orner editor, Springer, pp. 139-188, 2015.
+1.  M.M. Gibbons, L.E. Perotti, W.S. Klug: "Computational Mechanics of Viral Capsids". In *Protein Cages: Methods and Protocols*, B. P. Orner editor, Springer, pp. 139-188, 2015.
 
 ## **Book (Proceedings) edited**
 
-1.  D.B. Ennis, L.E. Perotti, V.Y. Wang: "Functional Imaging and
-    Modeling of the Heart". 11th International Conference, FIMH 2021,
-    Stanford, CA, USA, June 21-25, 2021, Proceedings. Springer, Lecture
-    Notes in Computer Science, LNCS 12738.
+1.  D.B. Ennis, L.E. Perotti, V.Y. Wang: "Functional Imaging and Modeling of the Heart". 11th International Conference, FIMH 2021, Stanford, CA, USA, June 21-25, 2021, Proceedings. Springer, Lecture Notes in Computer Science, LNCS 12738.
