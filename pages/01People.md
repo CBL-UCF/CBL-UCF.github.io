@@ -24,7 +24,7 @@ Links: [Google Scholar](https://scholar.google.com/citations?user=caVccQEAAAAJ&h
 
 ---
 <div class="header" style="text-align:center">
-  <h2>Graduate Students</h2>
+  <h2>Current Graduate Students</h2>
 </div>
 
 ---
@@ -71,23 +71,11 @@ Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scho
  ---
 
 <div class="header" style="text-align:center">
-  <h2>Undergraduate Students</h2>
+  <h2>Current Undergraduate Students</h2>
 </div>
----
-### Jonathan Gitzendanner
----
-<img style="float: right;" src="../../assets/img/people/jonathan.png" width="40%" height="40%">
-<br />
-<div style="text-align: justify">Jonathan is a senior Aerospace Engineering Undergraduate Student and Burnett Honors College Scholar at the University of Central Florida. His background focuses on multiphase fluid dynamics with experience in hydrodynamic modeling and reactive compressible granular flows. His current research studies methods for drag reduction in kayaks with the goal of designing a better polo kayak. </div>
-<br />
-Favorite things to do: Rock Climbing, Backpacking, Kayaking, Cooking \
-Links: [LinkedIn](https://www.linkedin.com/in/jonathan-gitzendanner/),  [Google Scholar](https://scholar.google.com/citations?user=jJcHNGMAAAAJ&hl=en)
-
-<br />
-<br />
 
 ---
-### Sarah Bulger
+### Sarah Bulger (Working on HUT)
 ---
 <img style="float: right;" src="../../assets/img/people/sarah.png" width="45%" height="45%">
 <br />
@@ -97,31 +85,25 @@ Favorite things to do: Baking and taking care of my plants \
 Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 
 <br />
-<br />
-
+---
+### Luigi Wellner
+---
+### Tyler Gregson
+---
+### Ethan Scheller
+---
+### Tiffanie Crumbie
+---
+### Nivedha Srinivasan
+---
 
 ---
 <div class="header" style="text-align:center">
-  <h2>Past Students</h2>
+  <h2>Past Graduate Students</h2>
 </div>
 ---
----
-### Mehlil Ahmed
----
-<img style="float: right;" src="../../assets/img/people/mehlil.jpg">
 
-<div style="text-align: justify">Mehlil completed her B.Sc in Naval Architecture and Marine Engineering from Bangladesh University of Engineering and Technology (BUET). During her undergraduate studies she was involved in designing Wind and Solar powered Oceangoing vessels for both her undergraduate thesis and 3rd year research project using computer aided design, Rhinoceros 3D, and Fluid Dynamics. The goals of her research are to compute the material properties and material laws describing the passive myocardium material response. A quantitative understanding of the passive myocardium material behavior will provide mechanistic and clinical insights into cardiac diseases, such as Heart Failure with preserved Ejection Fraction (HFpEF), for which diagnostic biomarkers and causes are still elusive.</div>
-\
-Favorite things to do: Painting, Cooking, Reading books\
-Links: [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/)
-
-<br />
-<br />
-<h4>Mohammad Tanjib Rahman (Graduate) </h4> Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/) 
-<h4>Emily Whitt (Undergraduate)</h4>  
-<h4>Jared Decker (Undergraduate) </h4> Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/) 
-<h4>Kylie Heckman (Undergraduate)</h4> 
-<h4>Kestrel Pourchot (Undergraduate)</h4> 
-<h4>Saar Peles (Undergraduate)</h4> 
-<h4>Carlos Borras (Undergraduate)</h4> 
-
+<h4>Mehlil Ahmed (PhD) </h4> Links: [Google Scholar](https://scholar.google.com/citations?user=0uJzfcIAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/) 
+<h4>Andre Von Zuben (PhD) </h4> Links: [ResearchGate](https://www.researchgate.net/profile/Andre-Von-Zuben), [LinkedIn](https://www.linkedin.com/in/avzuben/) 
+<h4>Kajetan Fricke (PhD) </h4> Links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=DNzBtfUAAAAJ&view_op=list_works&sortby=pubdate), [LinkedIn](https://www.linkedin.com/in/kajetan-fricke/) 
+<h4>Tanjib Rahman (MS) </h4> Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/) 
