@@ -158,8 +158,8 @@ feature-img: "assets/img/publicationrecent.jpg"
 
 ## **Refereed Publications in Conference Proceedings**
 
-1. M . Naqizadeh Jahromi, A. Delavald Marques, M. Ahmed, Z.Q. Liu, A.J. Hannum, D.B. Ennis, L.E. Perotti, D. Wu: "An nnU-Net model to Enhance Segmentation of Cardiac Cine DENSE-MRI using Phase Information." Multimodal4Health Workshop at The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024), Orlando, Florida, June 2024.A.
-2. Von Zuben, E. Whitt, F.A.C. Viana, L.E. Perotti: "Long Axis Cardiac MRI Segmentation Using Anatomically-Guided UNets and Transfer Learning". International Conference on Functional Imaging and Modeling of the Heart, Springer, pp. 274-282, Lyon, France, June 2023.
+1. M . Naqizadeh Jahromi, A. Delavald Marques, M. Ahmed, Z.Q. Liu, A.J. Hannum, D.B. Ennis, L.E. Perotti, D. Wu: "An nnU-Net model to Enhance Segmentation of Cardiac Cine DENSE-MRI using Phase Information." Multimodal4Health Workshop at The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024), Orlando, Florida, June 2024.
+2. A. Von Zuben, E. Whitt, F.A.C. Viana, L.E. Perotti: "Long Axis Cardiac MRI Segmentation Using Anatomically-Guided UNets and Transfer Learning". International Conference on Functional Imaging and Modeling of the Heart, Springer, pp. 274-282, Lyon, France, June 2023.
 3. D. Ogiermann, D. Balzani, L.E. Perotti: "An Extended Generalized Hill Model for Cardiac Tissue: Comparison with Different Approaches Based on Experimental Data". International Conference on Functional Imaging and Modeling of the Heart, Springer, pp. 555-564, Lyon, France, June 2023.
 4. A.J. Wilson, J.Q. Han, L.E. Perotti, D.B. Ennis: "Ventricular Helix Angle Trends and Long-Range Connectivity". International Conference on Functional Imaging and Modeling of the Heart, Springer, pp. 64-73, Lyon, France, June 2023.
 5. T. Rahman, K. Moulin, D.B. Ennis, L.E. Perotti: "Diffusion Biomarkers in Chronic Myocardial Infarction". Functional Imaging and Modeling of the Heart, Springer, pp. 137-147, Stanford, California, June 2021.
