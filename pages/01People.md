@@ -28,19 +28,6 @@ Links: [Google Scholar](https://scholar.google.com/citations?user=caVccQEAAAAJ&h
 </div>
 
 ---
-### Mehlil Ahmed
----
-<img style="float: right;" src="../../assets/img/people/mehlil.jpg">
-
-<div style="text-align: justify">Mehlil completed her B.Sc in Naval Architecture and Marine Engineering from Bangladesh University of Engineering and Technology (BUET). During her undergraduate studies she was involved in designing Wind and Solar powered Oceangoing vessels for both her undergraduate thesis and 3rd year research project using computer aided design, Rhinoceros 3D, and Fluid Dynamics. The goals of her research are to compute the material properties and material laws describing the passive myocardium material response. A quantitative understanding of the passive myocardium material behavior will provide mechanistic and clinical insights into cardiac diseases, such as Heart Failure with preserved Ejection Fraction (HFpEF), for which diagnostic biomarkers and causes are still elusive.</div>
-\
-Favorite things to do: Painting, Cooking, Reading books\
-Links: [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/)
-
-<br />
-<br />
-
----
 ### Shah Wasif Sazzad
 ---
 <img style="float: right;" src="../../assets/img/people/wasif.jpg" width="40%" height="40%">
@@ -118,6 +105,18 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
   <h2>Past Students</h2>
 </div>
 ---
+---
+### Mehlil Ahmed
+---
+<img style="float: right;" src="../../assets/img/people/mehlil.jpg">
+
+<div style="text-align: justify">Mehlil completed her B.Sc in Naval Architecture and Marine Engineering from Bangladesh University of Engineering and Technology (BUET). During her undergraduate studies she was involved in designing Wind and Solar powered Oceangoing vessels for both her undergraduate thesis and 3rd year research project using computer aided design, Rhinoceros 3D, and Fluid Dynamics. The goals of her research are to compute the material properties and material laws describing the passive myocardium material response. A quantitative understanding of the passive myocardium material behavior will provide mechanistic and clinical insights into cardiac diseases, such as Heart Failure with preserved Ejection Fraction (HFpEF), for which diagnostic biomarkers and causes are still elusive.</div>
+\
+Favorite things to do: Painting, Cooking, Reading books\
+Links: [LinkedIn](https://www.linkedin.com/in/mehlil-ahmed-b80921132/)
+
+<br />
+<br />
 <h4>Mohammad Tanjib Rahman (Graduate) </h4> Links: [Google Scholar](https://scholar.google.com/citations?user=7ERCrjYAAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/tanjib/) 
 <h4>Emily Whitt (Undergraduate)</h4>  
 <h4>Jared Decker (Undergraduate) </h4> Links: [LinkedIn](https://www.linkedin.com/in/jared-decker-274b9416b/) 
