@@ -158,7 +158,7 @@ feature-img: "assets/img/publicationrecent.jpg"
 
 ## **Refereed Publications in Conference Proceedings**
 
-1.   M . Naqizadeh Jahromi, A. Delavald Marques, M. Ahmed, Z.Q. Liu, A.J. Hannum, D.B. Ennis, L.E. Perotti, D. Wu: "An nnU-Net model to Enhance Segmentation of Cardiac Cine DENSE-MRI using Phase Information." Multimodal4Healthcare Workshop at The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024), Orlando, June, 2024.
+1.   M . Naqizadeh Jahromi, A. Delavald Marques, M. Ahmed, Z.Q. Liu, A.J. Hannum, D.B. Ennis, L.E. Perotti, D. Wu: "An nnU-Net model to Enhance Segmentation of Cardiac Cine DENSE-MRI using Phase Information." Multimodal4Healthcare Workshop at The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024), Orlando, Florida, June 2024.
 2.  A. Von Zuben, E. Whitt, F.A.C.
     Viana, L.E. Perotti: "Long Axis Cardiac MRI Segmentation Using
     Anatomically-Guided UNets and Transfer Learning". International
