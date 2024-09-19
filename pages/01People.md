@@ -72,12 +72,11 @@ Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scho
 ---
 ### Pedro Botecchi
 ---
-<img style="float: right;" src="../../assets/img/people/uditha.png" width="42%" height="42%">
-<div style="text-align: justify">Uditha received his B.Sc and M.Sc in Engineering at the University of Moratuwa, Sri Lanka. For his undergraduate thesis, he worked on homogenization of woven composites for deployable space structures using multiscale modeling techniques. For his masters thesis, he investigated the non-linear bending behaviour of ultra thin woven composites at the meso-mechanical scale. Currently, he is pursuing his Ph.D in Biomedical Engineering. The goal of his research is to investigate the ventricular motion in active contraction and reveal how cellular and meso-scale changes are reflected in ventricular function and dysfunction. </div>
+<img style="float: right;" src="../../assets/img/people/pedro.png" width="42%" height="42%">
+<div style="text-align: justify"> Pedro  </div>
 <br />
-Favorite things to do: Reading, Traveling, Bike touring
-Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scholer](https://scholar.google.com/citations?hl=en&user=WVJMR90AAAAJ)
-
+Favorite things to do: 
+Links: [LinkedIn](https://www.linkedin.com/in/pedro-henrique-botecchi/)
 <br />
 <br />
 
@@ -110,6 +109,7 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 <div style="text-align: justify"> Tyler's current research focuses on deployable structures and manufacturing optimization. As part of his research, Tyler 3D prints and optimizes the prototypes of deployable structures designed in the lab. </div>
 
 <h4> Nivedha Srinivasan  </h4>
+\vspace{-3mm}
 <div style="text-align: justify"> Niv's current research focuses on developing the tools and pipeline to characterize bone structures (e.g., volume fraction, branching, etc.) from CT images. </div>
 
 
