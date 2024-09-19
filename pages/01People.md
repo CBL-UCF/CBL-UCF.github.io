@@ -104,13 +104,13 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 
 
 <h4> Luigi Wellner  </h4> 
-<div style="text-align: justify"> Luigi current research focuses on cardiac image segmentation to train machine learning models for automatic image processing and cardiac strain calculations from clinical MR images routinely acquired in the clinic. </div>
+<div style="text-align: justify"> Luigi's current research focuses on cardiac image segmentation to train machine learning models for automatic image processing and cardiac strain calculations from MR images routinely acquired in the clinic. </div>
 
 <h4> Tyler Gregson  </h4>
-<div style="text-align: justify"> Tyler current research focuses on deployable structures and manufacturing optimization. As part of his research, Tyler 3D prints and optimizes the ptototypes of deployable structures designed in the lab. </div>
+<div style="text-align: justify"> Tyler's current research focuses on deployable structures and manufacturing optimization. As part of his research, Tyler 3D prints and optimizes the prototypes of deployable structures designed in the lab. </div>
 
 <h4> Nivedha Srinivasan  </h4>
-<div style="text-align: justify"> Niv current research focuses on developing the tools and pipeline to characterize bone structures (e.g., volume fraction, branching) from CT images. </div>
+<div style="text-align: justify"> Niv's current research focuses on developing the tools and pipeline to characterize bone structures (e.g., volume fraction, branching, etc.) from CT images. </div>
 
 
 ---
