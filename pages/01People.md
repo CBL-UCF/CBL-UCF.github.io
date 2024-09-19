@@ -68,15 +68,29 @@ Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scho
 <br />
 <br />
 
- ---
 
+---
+### Pedro Botecchi
+---
+<img style="float: right;" src="../../assets/img/people/uditha.png" width="42%" height="42%">
+<div style="text-align: justify">Uditha received his B.Sc and M.Sc in Engineering at the University of Moratuwa, Sri Lanka. For his undergraduate thesis, he worked on homogenization of woven composites for deployable space structures using multiscale modeling techniques. For his masters thesis, he investigated the non-linear bending behaviour of ultra thin woven composites at the meso-mechanical scale. Currently, he is pursuing his Ph.D in Biomedical Engineering. The goal of his research is to investigate the ventricular motion in active contraction and reveal how cellular and meso-scale changes are reflected in ventricular function and dysfunction. </div>
+<br />
+Favorite things to do: Reading, Traveling, Bike touring
+Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scholer](https://scholar.google.com/citations?hl=en&user=WVJMR90AAAAJ)
+
+<br />
+<br />
+
+
+---
 <div class="header" style="text-align:center">
   <h2>Current Undergraduate Students</h2>
 </div>
+---
 
----
+<!---
 ### Sarah Bulger (Working on HUT)
----
+
 <img style="float: right;" src="../../assets/img/people/sarah.png" width="45%" height="45%">
 <br />
 <div style="text-align: justify">Sarah is a senior mechanical engineering student at the University of Central Florida. She hopes to work in the biomedical engineering field. She is completing an undergraduate research thesis through UCF’s Burnett Honors College that links the cardiac structure at the micro, meso, and macro scale. She’s also helping work on a liquid bi-propellant rock with UCF’s Knights Experimental Rocketry club that is estimated to be 15 ft tall and launch to 10,000 ft. </div>
@@ -85,17 +99,19 @@ Favorite things to do: Baking and taking care of my plants \
 Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 
 <br />
----
-### Luigi Wellner
----
-### Tyler Gregson
----
-### Ethan Scheller
----
-### Tiffanie Crumbie
----
-### Nivedha Srinivasan
----
+
+-->
+
+
+<h4> Luigi Wellner  </h4> 
+<div style="text-align: justify"> Luigi current research focuses on cardiac image segmentation to train machine learning models for automatic image processing and cardiac strain calculations from clinical MR images routinely acquired in the clinic. </div>
+
+<h4> Tyler Gregson  </h4>
+<div style="text-align: justify"> Tyler current research focuses on deployable structures and manufacturing optimization. As part of his research, Tyler 3D prints and optimizes the ptototypes of deployable structures designed in the lab. </div>
+
+<h4> Nivedha Srinivasan  </h4>
+<div style="text-align: justify"> Niv current research focuses on developing the tools and pipeline to characterize bone structures (e.g., volume fraction, branching) from CT images. </div>
+
 
 ---
 <div class="header" style="text-align:center">
