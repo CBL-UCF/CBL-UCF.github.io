@@ -109,7 +109,6 @@ Links: [LinkedIn](www.linkedin.com/in/sarah-bulger-aa8a41293)
 <div style="text-align: justify"> Tyler's current research focuses on deployable structures and manufacturing optimization. As part of his research, Tyler 3D prints and optimizes the prototypes of deployable structures designed in the lab. </div>
 
 <h4> Nivedha Srinivasan  </h4>
-\vspace{-3mm}
 <div style="text-align: justify"> Niv's current research focuses on developing the tools and pipeline to characterize bone structures (e.g., volume fraction, branching, etc.) from CT images. </div>
 
 
