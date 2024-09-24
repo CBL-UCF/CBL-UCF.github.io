@@ -62,7 +62,7 @@ Links:
 <img style="float: right;" src="../../assets/img/people/uditha.png" width="42%" height="42%">
 <div style="text-align: justify">Uditha received his B.Sc and M.Sc in Engineering at the University of Moratuwa, Sri Lanka. For his undergraduate thesis, he worked on homogenization of woven composites for deployable space structures using multiscale modeling techniques. For his masters thesis, he investigated the non-linear bending behaviour of ultra thin woven composites at the meso-mechanical scale. Currently, he is pursuing his Ph.D in Biomedical Engineering. The goal of his research is to investigate the ventricular motion in active contraction and reveal how cellular and meso-scale changes are reflected in ventricular function and dysfunction. </div>
 <br />
-Favorite things to do: Reading, Traveling, Bike touring
+Favorite things to do: Reading, Traveling, Bike touring \
 Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scholer](https://scholar.google.com/citations?hl=en&user=WVJMR90AAAAJ)
 
 <br />
@@ -72,10 +72,11 @@ Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scho
 ---
 ### Pedro Botecchi
 ---
-<img style="float: right;" src="../../assets/img/people/pedro.jpeg" width="42%" height="42%">
+<img style="float: right;" src="../../assets/img/people/pedro.jpeg" width="38%" height="38%">
 <div style="text-align: justify"> Pedro received his B.Sc. in Computer Science from the São Paulo State University (Unesp), Brazil. Has excellent experience working with Typescript and Python and good knowledge on algorithms and data structures. His research includes cardiac segmentation, cardiac strains and kinemtics analisys, and machine learning.  </div>
 <br />
-Favorite things to do: 
+<br />
+Favorite things to do: \
 Links: [LinkedIn](https://www.linkedin.com/in/pedro-henrique-botecchi/)
 <br />
 <br />
