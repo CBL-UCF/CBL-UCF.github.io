@@ -72,8 +72,8 @@ Links: [LinkedIn](https://www.linkedin.com/in/udithadweerasinghe/), [Google Scho
 ---
 ### Pedro Botecchi
 ---
-<img style="float: right;" src="../../assets/img/people/pedro.png" width="42%" height="42%">
-<div style="text-align: justify"> Pedro  </div>
+<img style="float: right;" src="../../assets/img/people/pedro.jpeg" width="42%" height="42%">
+<div style="text-align: justify"> Pedro received his B.Sc. in Computer Science from the São Paulo State University (Unesp), Brazil. Has excellent experience working with Typescript and Python and good knowledge on algorithms and data structures. His research includes cardiac segmentation, cardiac strains and kinemtics analisys, and machine learning.  </div>
 <br />
 Favorite things to do: 
 Links: [LinkedIn](https://www.linkedin.com/in/pedro-henrique-botecchi/)
